@@ -1,5 +1,5 @@
 jeksterslab/betaSandwich-rocker
-==========================
+===============================
 Ivan Jacob Agaloos Pesigan
 
 <!-- badges: start -->
@@ -15,7 +15,7 @@ A `rocker/rstudio` container for the [betaSandwich](https://github.com/jekstersl
 Run the following in the terminal.
 
 ```bash
-docker run --rm -ti -e PASSWORD=yourpassword -p 8787:8787 jeksterslab/betaSandwich-rocker
+docker run --rm -ti -e PASSWORD=yourpassword -p 8787:8787 jeksterslab/betasandwich-rocker
 ```
 
 Open `https://localhost:8787` on your web browser to launch `Rstudio Server`.
