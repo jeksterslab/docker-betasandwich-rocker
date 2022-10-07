@@ -1,9 +1,9 @@
-jeksterslab/betaSandwich-rocker
-===============================
+jeksterslab/betasandwich-rocker
+==========================
 Ivan Jacob Agaloos Pesigan
 
 <!-- badges: start -->
-[![Docker Image CI](https://github.com/jeksterslab/docker-betaSandwich-rocker/actions/workflows/docker.yaml/badge.svg)](https://github.com/jeksterslab/docker-betaSandwich-rocker/actions/workflows/docker.yaml)
+[![Docker Image CI](https://github.com/jeksterslab/docker-betasandwich-rocker/actions/workflows/docker.yaml/badge.svg)](https://github.com/jeksterslab/docker-betasandwich-rocker/actions/workflows/docker.yaml)
 <!-- badges: end -->
 
 ## Description
