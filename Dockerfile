@@ -1,5 +1,5 @@
 FROM rocker/rstudio
-RUN install2.r --error remotes
+RUN install2.r --error remotes betaSandwich
 RUN Rscript -e "remotes::install_github('jeksterslab/betaSandwich')"
 
 # author
